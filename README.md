@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: Email <a href="emailto:dipakbhise420@gmail.com">Email</a>
+- 📫 How to reach me: Email <a href="mailto:dipakbhise420@gmail.com">Email</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
