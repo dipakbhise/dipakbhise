@@ -1,4 +1,4 @@
-###   Hi there 👋 I Am Dipak Bhise 
+<h1 align="center">Hi there 👋 I Am Dipak Bhise </h1>
 
 ###   A Curious Developer from India
 
