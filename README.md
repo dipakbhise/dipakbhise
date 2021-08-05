@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I Am Dipak Bhise </h1>
 
-<h3 align="center">  A Curious Developer from India </h3>
+<h3 align="center">  A Curious Web Developer from India </h3>
 
 
 
