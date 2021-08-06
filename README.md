@@ -2,7 +2,7 @@
 
 <h3 align="center">  A Curious Web Developer from India </h3>
 
-<a href="https://profile-counter.glitch.me/dipakbhise/count.svg"> Visitor Counts</a>
+<a href="tel:7350741783"> Visitor Counts</a>
 
 
 
