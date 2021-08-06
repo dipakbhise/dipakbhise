@@ -2,7 +2,7 @@
 
 <h3 align="center">  A Curious Web Developer from India </h3>
 
-https://profile-counter.glitch.me/dipakbhise/count.svg"
+https://profile-counter.glitch.me/dipakbhise/count.svg
 
 
 
