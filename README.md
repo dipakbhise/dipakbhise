@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I Am Dipak Bhise </h1>
 
-<h3 align="center">  A Curious Mern Stack Developer...! </h3>
+<h3 align="center">  A Curious MERN Stack Developer...! </h3>
 
 
 
